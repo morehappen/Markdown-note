@@ -34,7 +34,7 @@ console.log(moon);
 ```
 
 #显示链接中带括号的图片（语法！【】【1】
-【1】: http://latex.codecogs.com/gif.latex?\prod%20\(n_{i}\)+1）） 
+【1】: http://latex.codecogs.com/gif.latex?\prod%20\(n_{i}\)+1）怎么感觉像是字体图标呢） 
 ![][1]
 [1]: http://latex.codecogs.com/gif.latex?\prod%20\(n_{i}\)+1
 
