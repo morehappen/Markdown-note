@@ -11,4 +11,7 @@
 2. 列表数字2。
 3. 列表数字3
 
-
+#此处尝试链接（语法[简书](URL)）
+[百度]（http://www.baidu.com）
+#此处尝试图片（语法![](url)
+![](http://upload-images.jianshu.io/upload_images/259-0ad0d0bfc1c608b6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
