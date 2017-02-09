@@ -32,15 +32,24 @@
 var moon = "war3";
 console.log(moon);
 ```
+
+#显示链接中带括号的图片
 ![][1]
 [1]: http://latex.codecogs.com/gif.latex?\prod%20\(n_{i}\)+1
 
+#表格
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
+
+|dog | bird | cat|
+|----|------|----|
+|foo | foo  | foo|
+|bar | bar  | bar|
+|baz | baz  | baz| 
 
 dog | bird | cat
 ----|------|----
