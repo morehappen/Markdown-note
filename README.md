@@ -17,11 +17,13 @@
 ![](http://upload-images.jianshu.io/upload_images/259-0ad0d0bfc1c608b6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 #此处我将引用李白的诗句（语法：右尖号+space+文本） 
->愿斩单于首
->长驱静铁关
+
+> 愿斩单于首
+> 长驱静铁关
+
 #此处展示粗体和斜体（语法：双星+文本为粗体，单星+文本为斜体）
 **粗体文本
-* 斜体文本
+*斜体文本
 
 
 #代码引用（语法：英文输入，tab上键，高飞斜杠包围单行代码。多行代码则三分斜头尾放置）
