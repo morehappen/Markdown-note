@@ -33,7 +33,8 @@ var moon = "war3";
 console.log(moon);
 ```
 
-#显示链接中带括号的图片
+#显示链接中带括号的图片（语法！【】【1】
+【1】: http://latex.codecogs.com/gif.latex?\prod%20\(n_{i}\)+1）） 
 ![][1]
 [1]: http://latex.codecogs.com/gif.latex?\prod%20\(n_{i}\)+1
 
